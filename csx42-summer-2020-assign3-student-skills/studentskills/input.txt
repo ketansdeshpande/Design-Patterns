@@ -1,0 +1,8 @@
+-1234:John,Doe,3.9,ComputerScience,Skill3,Skill1,Skill2,Skill5,Skill4
+2345:May,Chan,3.2,Chemistry,Skill0,Skill7,Skill8,Skill5,Skill3,Skill4,Skill3,Skill9
+
+1124:Josh,Viper,3.0,Arts,Skill9,Skill8,Skill7
+1134:Max,Cho,3.8,ComputerScience,Skill9,Skill8
+1234:Kens,Ferns,3.9,ComputerScience,Skill7,Skill5
+2333:Kygo,DJ,3.1,Music,Skill9,Skill8,Skill7,Skill6,Skill2,Skill3,Skill4
+1234:Harry,koli,3.9,IT,Skill7,Skill5,Skill2
